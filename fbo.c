@@ -7,7 +7,7 @@
 /* The lasted just need more packet   */
 /* to crash ;)                        */
 /* Another code from Bong             */
-/* bong26@hotmail.com                 */
+/* nonfind@kisa.or.kr                 */
 /**************************************/
 
 #include <stdio.h>
