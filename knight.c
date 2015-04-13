@@ -12,7 +12,7 @@
  * 
  * BTW: I dont use comments, sorry.
  * 
- * -bysin
+ * created by ki jong
  */
  
 // This is the channel name
